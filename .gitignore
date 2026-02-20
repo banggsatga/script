@@ -87,3 +87,7 @@ fileso/.git/objects/pack/pack-671207129ac961919ca7b8cece442a266a17be6a.pack
 # Environment files
 *.env
 *.env.*
+-e 
+# Environment files
+*.env
+*.env.*
