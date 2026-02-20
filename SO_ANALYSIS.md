@@ -117,6 +117,13 @@ Aplikasi ini menggunakan:
 - **Microsoft Intune integration** support
 - **Protocol Buffers** untuk efisiensi data transfer
 - **Event-driven architecture** untuk komunikasi real-time
+- **Camera Integration** (libd4296a.so) - AndroidX Camera untuk surface/capture handling
+
+### Fungsi Tiap Library:
+- **libdesignationplants.so**: Core security logic, API communication, threat detection
+- **libbcc6.so**: Supporting security features
+- **libd4296a.so**: Camera utilities (AndroidX Camera JNI)
+- **libcb4da.so, libe3262a.so, libfbe73a.so**: Helper libraries
 
 ## 🎯 Rekomendasi Implementasi untuk Project Kita
 
