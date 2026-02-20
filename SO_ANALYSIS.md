@@ -4,9 +4,12 @@
 File-file .so yang dianalisis adalah bagian dari **Zimperium Mobile Security SDK** untuk Android. Ini adalah library keamanan mobile yang melakukan device management, threat detection, dan VPN.
 
 ## 🔍 File yang Dianalisis
-1. **libdesignationplants.so** (7.8 MB) - File utama dengan logika aplikasi
-2. **libbcc6.so** (1.4 MB) - Komponen pendukung
-3. **libcb4da.so**, **libe3262a.so**, **libfbe73a.so** - Library helper kecil
+1. **libdesignationplants.so** (7.8 MB) - File utama dengan logika aplikasi Zimperium
+2. **libbcc6.so** (1.4 MB) - Komponen pendukung security
+3. **libcb4da.so** (7 KB) - Library helper kecil
+4. **libe3262a.so** (9.9 KB) - Library helper kecil
+5. **libfbe73a.so** (5.4 KB) - Library helper kecil
+6. **libd4296a.so** (4.8 KB) - AndroidX Camera utility (untuk capture/surface handling)
 
 ## 🌐 Endpoint API yang Ditemukan
 
